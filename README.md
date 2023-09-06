@@ -1,3 +1,7 @@
+## Link to website: https://skin-care-caf3c69rx-hadeebataj.vercel.app/
+
+The chatbot within this skincare website serves as an indispensable tool for users seeking personalized skincare solutions. By leveraging AI technology, it assesses users' specific skin conditions and recommends the most suitable skincare products from a vast range of options. Additionally, it provides instant responses to users' skincare inquiries, offering expert advice and fostering informed decision-making. Whether users are battling dryness, acne, signs of aging, or other concerns, this chatbot is their trusted companion on the journey to healthier, more radiant skin.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
